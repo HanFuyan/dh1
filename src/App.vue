@@ -21,9 +21,11 @@ export default {
 <style lang="scss">
 html,body{
   height: 100%;
+  width: 100%;
 }
 #app{
   height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

@@ -14,7 +14,7 @@
       </div>
       <div class="contact">
         <img src="../assets/contact.png" alt="">
-        0551-68502009
+        <span>0551-68502009</span>
       </div>
     </div>
   </div>
@@ -35,7 +35,8 @@ export default {
   color: #555;
   background-color: #090b1a;
   .wrapper{
-    width: 1200px;
+    max-width: 1200px;
+    width: 100%;
     height: 100%;
     margin: 0 auto;
     display: flex;
