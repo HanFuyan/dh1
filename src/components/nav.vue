@@ -4,6 +4,7 @@
       <div class="logo">
         <a href="/">
           <img src="../assets/logo_white.png" alt="logo">
+          <span>鼎华网络科技有限公司</span>
         </a>
       </div>
       <div class="menu">
@@ -33,7 +34,6 @@ export default {
   z-index: 999;
   height: 72px;
   color: #555;
-  background-color: #090b1a;
   .wrapper{
     max-width: 1200px;
     width: 100%;
@@ -44,9 +44,19 @@ export default {
       height: 100%;
       display: flex;
       align-items: center;
+      a{
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+      }
       img{
         height: 60px;
         width: auto;
+      }
+      span{
+        margin-left: 10px;
+        color: #ddd;
+        font-size: 30px;
       }
     }
     .menu{

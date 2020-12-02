@@ -30,7 +30,6 @@ html,body{
   flex-direction: column;
   justify-content: space-between;
   .body{
-    margin-top: 72px;
     flex: 1;
   }
 }
