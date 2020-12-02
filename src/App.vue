@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <Nav />
-    <router-view/>
+    <div class="body">
+      <router-view/>
+    </div>
     <Footer />
   </div>
 </template>
@@ -17,9 +19,17 @@ export default {
 }
 </script>
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+html,body{
+  height: 100%;
+}
+#app{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  .body{
+    margin-top: 72px;
+    flex: 1;
+  }
 }
 </style>

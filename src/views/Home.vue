@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    home
+    <div v-for="i in 100" :key="i">home{{i}}</div>
   </div>
 </template>
 
