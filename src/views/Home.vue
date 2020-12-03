@@ -68,6 +68,7 @@ export default {
         transition: 0.5s;
         &:hover{
           background-size: 110% 110%;
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,.3);
         }
         .item-title{
           position: absolute;

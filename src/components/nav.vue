@@ -8,7 +8,7 @@
         </a>
       </div>
       <div class="menu">
-        <span class="active"><a href="/">首页</a></span>
+        <span><a href="/">首页</a></span>
         <span><a href="/about">关于我们</a></span>
         <span><a href="/project">项目案列</a></span>
         <span><a href="/news">新闻中心</a></span>
@@ -31,7 +31,6 @@ export default {
   mounted () {
     window.addEventListener('scroll', () => {
       const top = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
-      console.log(top, 'top')
       if (top >= 72) {
         this.bgc = true
       } else {
@@ -87,6 +86,7 @@ export default {
       span{
         height: 100%;
         display: inline-block;
+        transition: 0.3s;
         a{
           padding: 0 20px;
           display: flex;
