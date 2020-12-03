@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <div class="banner">
+    <div class="banner v-cloak">
       <img src="../assets/banner_2.jpg" alt="">
     </div>
     <div class="introduction">
@@ -24,7 +24,6 @@
     <div class="position">
       <div class="title">公司地址</div>
       <div class="box">
-        <!-- <div class="map" id="map"></div> -->
         <baidu-map class="map" ak="GjNUMlIgmgjqqg7Q59DRvN2Q3vWvXwgg" :center="center" :zoom="16">
           <bm-info-window :position="center" :show="true" title="鼎华网络">
             <p>安徽省合肥市中安创谷科技园A4栋633室</p>
@@ -57,6 +56,9 @@ export default {
       width: 100%;
     }
   }
+  [v-cloak] {
+    display: none;
+  }
   .introduction{
     padding: 50px 0;
     text-align: center;
@@ -77,6 +79,7 @@ export default {
   .certificate{
     padding: 50px 0;
     text-align: center;
+    background-color: #f8f8f8;
     .title{
       font-size: 30px;
       color: #333;

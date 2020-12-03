@@ -4,7 +4,7 @@
       <div class="logo">
         <a href="/">
           <img src="../assets/logo_white.png" alt="logo">
-          <span>鼎华网络科技有限公司</span>
+          <span>安徽鼎华网络科技有限公司</span>
         </a>
       </div>
       <div class="menu">
