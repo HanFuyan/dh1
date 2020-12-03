@@ -2,11 +2,11 @@
   <div id="app">
     <Nav />
     <div class="body">
-      <keep-alive>
+      <router-view/>
+      <!-- <keep-alive>
         <transition name="fade">
-          <router-view/>
         </transition>
-      </keep-alive>
+      </keep-alive> -->
     </div>
     <Footer />
   </div>

@@ -24,19 +24,19 @@
     <div class="news">
       <div class="title">新闻中心</div>
       <div class="box">
-        <a href="/" class="item item_1">
+        <a href="/news/news1" class="item item_1">
           <div class="info">
             <span class="desc">鼎华网络与海康威视签署战略合作协议</span>
             <span class="date">12-03</span>
           </div>
         </a>
-        <a href="/" class="item item_2">
+        <a href="/news/news1" class="item item_2">
           <div class="info">
             <span class="desc">鼎华网络与海康威视签署战略合作协议</span>
             <span class="date">12-03</span>
           </div>
         </a>
-        <a href="/" class="item item_3">
+        <a href="/news/news1" class="item item_3">
           <div class="info">
             <span class="desc">鼎华网络落户合肥中安创谷科技园</span>
             <span class="date">12-03</span>
