@@ -106,16 +106,16 @@ export default {
         }
       }
       .item_1{
-        background-image: url(../assets/project_1.jpg);
+        background-image: url(../assets/project/project_1.jpg);
       }
       .item_2{
-        background-image: url(../assets/project_2.jpg);
+        background-image: url(../assets/project/project_2.jpg);
       }
       .item_3{
-        background-image: url(../assets/project_1.jpg);
+        background-image: url(../assets/project/project_1.jpg);
       }
       .item_4{
-        background-image: url(../assets/project_2.jpg);
+        background-image: url(../assets/project/project_2.jpg);
       }
     }
   }
