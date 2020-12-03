@@ -73,7 +73,7 @@ export default {
 <style lang="scss" scoped>
 .project {
   .banner {
-    .img {
+    img {
       width: 100%;
     }
   }
@@ -91,37 +91,41 @@ export default {
       width: 900px;
     }
     .prisonProgram {
+      position: relative;
       max-width: 1140px;
       margin: 20px auto;
-      padding: 10px 30px;
-      text-align: left;
+      padding: 20px 30px;
+      text-align: center;
       background-color: rgba(222, 230, 238, 0.7);
       .title1 {
         padding-top: 10px;
         font-size: 25px;
         color: #333;
+        text-align: left;
       }
       .subtitle1 {
         font-size: 15px;
         margin-top: 20px;
         color: #333;
         text-indent: 2em;
+        text-align: left;
+        margin-bottom: 15px;
       }
       .item {
         position: relative;
         width: 720px;
         height: auto;
-        margin: 5px;
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-        background-position: center;
+        margin: 0 auto;
         transition: 0.5s;
         &:hover {
-          background-size: 110% 110%;
+          transform: scale(1.02);
           box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.3);
         }
       }
       .button {
+        position: absolute;
+        bottom: 20px;
+        left: 30px;
         width: 133px;
         height: 36px;
         line-height: 36px;
@@ -129,7 +133,6 @@ export default {
         font-size: 12px;
         display: inline-block;
         border: 1px solid #666666;
-        margin: 10px;
         text-align: center;
       }
     }

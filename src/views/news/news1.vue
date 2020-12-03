@@ -1,6 +1,6 @@
 <template>
   <div class="news1">
-    <div class="nav">nav</div>
+    <div class="nav"></div>
     <div class="content">
       <div class="title">鼎华网络与海康威视签署战略合作协议</div>
       <div class="date">2020-12-03</div>
