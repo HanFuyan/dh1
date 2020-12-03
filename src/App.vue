@@ -3,6 +3,10 @@
     <Nav />
     <div class="body">
       <router-view/>
+      <!-- <keep-alive>
+        <transition name="fade">
+        </transition>
+      </keep-alive> -->
     </div>
     <Footer />
   </div>
@@ -31,6 +35,12 @@ html,body{
   justify-content: space-between;
   .body{
     flex: 1;
+    .fade-enter-active, .fade-leave-active {
+      transition: opacity .5s;
+    }
+    .fade-enter, .fade-leave-to{
+      opacity: 0;
+    }
   }
 }
 </style>
