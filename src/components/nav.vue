@@ -1,5 +1,5 @@
 <template>
-  <div class="nav">
+  <div :class="'nav' + [bgc ? ' bgc': '']">
     <div class="wrapper">
       <div class="logo">
         <a href="/">
@@ -8,7 +8,7 @@
         </a>
       </div>
       <div class="menu">
-        <span><a href="/">首页</a></span>
+        <span class="active"><a href="/">首页</a></span>
         <span><a href="/about">关于我们</a></span>
         <span><a href="/project">项目案列</a></span>
         <span><a href="/news">新闻中心</a></span>
@@ -22,7 +22,23 @@
 </template>
 <script>
 export default {
-  name: 'Nav'
+  name: 'Nav',
+  data () {
+    return {
+      bgc: false
+    }
+  },
+  mounted () {
+    window.addEventListener('scroll', () => {
+      const top = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+      console.log(top, 'top')
+      if (top >= 72) {
+        this.bgc = true
+      } else {
+        this.bgc = false
+      }
+    })
+  }
 }
 </script>
 <style lang="scss" scoped>
@@ -34,6 +50,10 @@ export default {
   z-index: 999;
   height: 72px;
   color: #555;
+  transition: 0.3s;
+  &.bgc{
+    background-color: #090b1add;
+  }
   .wrapper{
     max-width: 1200px;
     width: 100%;
@@ -66,15 +86,18 @@ export default {
       justify-content: flex-end;
       span{
         height: 100%;
-        padding: 0 20px;
         display: inline-block;
         a{
+          padding: 0 20px;
           display: flex;
           height: 100%;
           color: #ddd;
           font-size: 16px;
           align-items: center;
           text-decoration: none;
+        }
+        &.active{
+          background-color: #12152c;
         }
         &:hover{
           background-color: #12152c;
