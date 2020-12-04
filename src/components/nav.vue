@@ -11,6 +11,7 @@
         <span><a href="/">首页</a></span>
         <span><a href="/about">关于我们</a></span>
         <span><a href="/project">项目案列</a></span>
+        <span><a href="/project">项目案列</a></span>
         <span><a href="/news">新闻中心</a></span>
       </div>
       <div class="contact">
