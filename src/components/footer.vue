@@ -24,7 +24,7 @@
         <div class="item">地址: 安徽省合肥市中安创谷科技园A4栋633室</div>
       </div>
     </div>
-    <div class="bottom">Copyright © 鼎华网络科技有限公司版权所有</div>
+    <div class="bottom">Copyright © 鼎华网络科技有限公司 版权所有</div>
   </div>
 </template>
 <script>

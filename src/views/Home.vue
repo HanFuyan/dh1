@@ -19,9 +19,6 @@
         <a href="/" class="item item_4">
           <div class="item-title">智慧园区</div>
         </a>
-        <a href="/" class="item item_4">
-          <div class="item-title">智慧园区</div>
-        </a>
       </div>
     </div>
     <div class="news">
