@@ -17,10 +17,10 @@
           智慧监管产品面向公安机关社区综合治理,基于AI、物联网、云计算和大数据分析等技术提供智慧安防社区服务，重新赋能各类社区警务场景，帮助基层民警建立感知态势、主动防控、精细管控、多元服务的新型警务
           工作模式。有效解决新时期下治安形势复杂和治理不够精细等问题，提升基层派出所的综合治理能力。
         </div>
-        <a href="/">
+        <a href="/project/Detoxification">
           <span class="button">查看更多</span>
         </a>
-        <a href="/" class="item">
+        <a href="/project/Detoxification" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
       </div>
@@ -29,10 +29,10 @@
         <div class="subtitle1">
           依据公安部智慧监所建设指导方案及监管实际业务需求，以监管信息业务平台为基础，整合大数据分析、生物识别、物联网、AI等先进技术，打造现代化智慧监所整体解决方案。
         </div>
-        <a href="/">
+        <a href="/project/Supervision">
           <span class="button">查看更多</span>
         </a>
-        <a href="/" class="item">
+        <a href="/project/Supervision" class="item">
           <img src="../assets/project/物联感知平台.jpg" alt="安防" class="item" />
         </a>
       </div>
@@ -42,10 +42,10 @@
           通过广泛地运用信息智能化技术，提高监狱物防、技防能力，
           建立监管安全防范的长效管理机制，树立先进的管理意识，掌握先进的管理方法和管理手段，提升安全防范和应急处置指挥能力。
         </div>
-        <a href="/">
+        <a href="/project/Smartprison">
           <span class="button">查看更多</span>
         </a>
-        <a href="/" class="item">
+        <a href="/project/Smartprison" class="item">
           <img src="../assets/project/物联感知平台.jpg" alt="安防" class="item" />
         </a>
       </div>
@@ -54,10 +54,10 @@
         <div class="subtitle1">
           通过利用现代化信息技术建立住宅小区综合物业管理中心与安防系统、信息服务系统、物业管理系统以及家居智能化组成的"三位一体"住宅小区服务和管理集成系统，以达到安全、舒适、温馨和便利的生活环境。
         </div>
-        <a href="/">
+        <a href="/project/Park">
           <span class="button">查看更多</span>
         </a>
-        <a href="/" class="item">
+        <a href="/project/Park" class="item">
           <img src="../assets/project/安防.png" alt="安防" class="item" />
         </a>
       </div>
@@ -137,23 +137,5 @@ export default {
       }
     }
   }
-}
-.w-line {
-  display: block;
-  margin: 0;
-  margin-top: -0;
-  padding: 0;
-  top: 50%;
-  width: 275px;
-  height: 1px;
-  font-size: 0;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: #999999;
-  -moz-box-shadow: 0 0 0 transparent;
-  -webkit-box-shadow: 0 0 0 transparent;
-  -ms-box-shadow: 0 0 0 transparent;
-  -o-box-shadow: 0 0 0 transparent;
-  box-shadow: 0 0 0 transparent;
 }
 </style>

@@ -21,6 +21,26 @@ const routes = [
     component: () => import('../views/Project.vue')
   },
   {
+    path: '/project/Smartprison',
+    name: 'Smartprison',
+    component: () => import('../views/Project/Smartprison.vue')
+  },
+  {
+    path: '/project/Supervision',
+    name: 'Supervision',
+    component: () => import('../views/Project/Supervision.vue')
+  },
+  {
+    path: '/project/Park',
+    name: 'Park',
+    component: () => import('../views/Project/Park.vue')
+  },
+  {
+    path: '/project/Detoxification',
+    name: 'Detoxification',
+    component: () => import('../views/Project/Detoxification.vue')
+  },
+  {
     path: '/news',
     name: 'News',
     component: () => import('../views/News.vue')
