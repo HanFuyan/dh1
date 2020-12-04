@@ -46,7 +46,7 @@
 
 <script>
 export default {
-  name: 'Smartprison'
+  name: 'Detoxification'
 }
 </script>
 <style lang="scss" scoped>
