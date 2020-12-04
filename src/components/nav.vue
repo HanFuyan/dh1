@@ -31,7 +31,7 @@ export default {
   mounted () {
     window.addEventListener('scroll', () => {
       const top = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
-      if (top >= 72) {
+      if (top >= 1) {
         this.bgc = true
       } else {
         this.bgc = false
@@ -49,7 +49,7 @@ export default {
   z-index: 999;
   height: 72px;
   color: #555;
-  transition: 0.3s;
+  transition: 0.2s;
   &.bgc{
     background-color: #090b1add;
   }
