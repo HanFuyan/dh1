@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="banner v-cloak">
-      <img src="../assets/banner_1.jpg" alt="">
+      <img src="../assets/banner_4.jpg" alt="">
     </div>
     <div class="project">
       <div class="title">解决方案</div>
