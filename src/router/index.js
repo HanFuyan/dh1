@@ -23,22 +23,22 @@ const routes = [
   {
     path: '/project/Smartprison',
     name: 'Smartprison',
-    component: () => import('../views/Project/Smartprison.vue')
+    component: () => import('../views/project/Smartprison.vue')
   },
   {
     path: '/project/Supervision',
     name: 'Supervision',
-    component: () => import('../views/Project/Supervision.vue')
+    component: () => import('../views/project/Supervision.vue')
   },
   {
     path: '/project/Park',
     name: 'Park',
-    component: () => import('../views/Project/Park.vue')
+    component: () => import('../views/project/Park.vue')
   },
   {
     path: '/project/Detoxification',
     name: 'Detoxification',
-    component: () => import('../views/Project/Detoxification.vue')
+    component: () => import('../views/project/Detoxification.vue')
   },
   {
     path: '/news',
