@@ -11,6 +11,7 @@
         <span><a href="/">首页</a></span>
         <span><a href="/about">关于我们</a></span>
         <span><a href="/project">项目案列</a></span>
+        <span><a href="/project">项目案列</a></span>
         <span><a href="/news">新闻中心</a></span>
       </div>
       <div class="contact">
@@ -31,7 +32,7 @@ export default {
   mounted () {
     window.addEventListener('scroll', () => {
       const top = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
-      if (top >= 72) {
+      if (top >= 1) {
         this.bgc = true
       } else {
         this.bgc = false
@@ -49,7 +50,7 @@ export default {
   z-index: 999;
   height: 72px;
   color: #555;
-  transition: 0.3s;
+  transition: 0.2s;
   &.bgc{
     background-color: #090b1add;
   }

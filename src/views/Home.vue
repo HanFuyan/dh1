@@ -47,6 +47,26 @@
         </a>
       </div>
     </div>
+    <div class="partner">
+      <div class="title">合作伙伴</div>
+      <div class="box">
+        <div class="item">
+          <img src="../assets/partner/hikvision.png" alt="">
+        </div>
+        <div class="item">
+          <img src="../assets/partner/supermap.png" alt="">
+        </div>
+        <div class="item">
+          <img src="../assets/partner/lonbon.png" alt="">
+        </div>
+        <div class="item">
+          <img src="../assets/partner/meiyi.png" alt="">
+        </div>
+        <div class="item">
+          <img src="../assets/partner/ITC.jpg" alt="">
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -193,6 +213,40 @@ export default {
       }
       .item_3{
         background-image: url(../assets/news/news_3.png);
+      }
+    }
+  }
+  .partner{
+    padding: 50px 0;
+    text-align: center;
+    .title{
+      font-size: 30px;
+      color: #333;
+      margin-bottom: 20px;
+    }
+    .box{
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      .item{
+        width: 220px;
+        height: 120px;
+        border: 1px #eaeaea solid;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        &:hover{
+          img{
+            transform: scale(1.08);
+          }
+        }
+        img{
+          max-width: 80%;
+          max-height: 80%;
+          transition: 0.3s;
+        }
       }
     }
   }

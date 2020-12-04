@@ -1,7 +1,7 @@
 <template>
   <div class="news">
     <div class="banner v-cloak">
-      <img src="../assets/banner_2.jpg" alt="">
+      <img src="../assets/banner_news.jpg" alt="">
     </div>
     <div class="list">
       <div class="title">新闻中心</div>

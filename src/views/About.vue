@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="banner v-cloak">
-      <img src="../assets/banner_2.jpg" alt="">
+      <img src="../assets/banner_about.jpg" alt="">
     </div>
     <div class="introduction">
       <div class="title">公司简介</div>

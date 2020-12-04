@@ -19,6 +19,11 @@ export default {
   components: {
     Nav,
     Footer
+  },
+  mounted () {
+    document.addEventListener('contextmenu', e => {
+      e.preventDefault()
+    })
   }
 }
 </script>
@@ -31,6 +36,7 @@ html,body{
   height: 100%;
   width: 100%;
   display: flex;
+  user-select: none;
   flex-direction: column;
   justify-content: space-between;
   .body{
