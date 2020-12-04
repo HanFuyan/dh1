@@ -16,6 +16,31 @@ const routes = [
     component: () => import('../views/About.vue')
   },
   {
+    path: '/case',
+    name: 'Case',
+    component: () => import('../views/Case.vue')
+  },
+  {
+    path: '/case/Security',
+    name: 'Security',
+    component: () => import('../views/Case/Security.vue')
+  },
+  {
+    path: '/case/Emergency',
+    name: 'Emergency',
+    component: () => import('../views/Case/Emergency.vue')
+  },
+  {
+    path: '/case/Perceive',
+    name: 'Perceive',
+    component: () => import('../views/Case/Perceive.vue')
+  },
+  {
+    path: '/case/Supervision',
+    name: 'Supervision',
+    component: () => import('../views/Case/Supervision.vue')
+  },
+  {
     path: '/project',
     name: 'Project',
     component: () => import('../views/Project.vue')
