@@ -62,6 +62,9 @@
         <div class="item">
           <img src="../assets/partner/ITC.jpg" alt="">
         </div>
+        <div class="item">
+          <img src="../assets/partner/7vp.png" alt="">
+        </div>
       </div>
     </div>
   </div>
@@ -228,12 +231,13 @@ export default {
       justify-content: space-between;
       flex-wrap: wrap;
       .item{
-        width: 220px;
+        width: 320px;
         height: 120px;
         border: 1px #eaeaea solid;
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-bottom: 20px;
         &:hover{
           img{
             transform: scale(1.08);
