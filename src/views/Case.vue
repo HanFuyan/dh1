@@ -10,23 +10,23 @@
         提供专业化解决方案, 为行业创造价值，让技术服务市场，打造精品案例。
       </div>
       <div class="prisonProgram">
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
         <div>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">安防综合管理平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">应急指挥平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">智慧物联感知平台</span>
           </a>
         </div>
@@ -35,23 +35,23 @@
     <div class="Program">
       <div class="title">智慧监管</div>
       <div class="prisonProgram">
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
         <div>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">安防综合管理平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">应急指挥平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">智慧物联感知平台</span>
           </a>
         </div>
@@ -66,17 +66,17 @@
         <a href="/case/Perceive" class="item">
           <img src="../assets/project/安防.png" alt="安防" class="item" />
         </a>
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
         <div>
           <a href="/case/Perceive">
             <span class="button">安防综合管理平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">应急指挥平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">智慧物联感知平台</span>
           </a>
         </div>
@@ -85,23 +85,23 @@
     <div class="Program">
       <div class="title">智慧园区</div>
       <div class="prisonProgram">
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
-        <a href="/project/Detoxification" class="item">
+        <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
         <div>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">安防综合管理平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">应急指挥平台</span>
           </a>
-          <a href="/project/Detoxification">
+          <a href="/case/Perceive">
             <span class="button">智慧物联感知平台</span>
           </a>
         </div>

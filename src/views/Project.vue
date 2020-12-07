@@ -12,41 +12,46 @@
       <div class="prisonProgram">
         <div class="title1">智慧戒毒解决方案</div>
         <div class="subtitle1">
-          2019年5月,习近平总书记在全国公安工作会议上强调"坚持政治建警、改革强警、科技兴警、从严治警，履行好党和人民赋予的新时代职责使命”提出要"把‘枫桥经验’
-          坚持好、发展好，把党的群众路线坚持好、贯彻好，充分发动群众、组织群众、依靠群众，努力建设更高水平的平安中国”。
-          智慧监管产品面向公安机关社区综合治理,基于AI、物联网、云计算和大数据分析等技术提供智慧安防社区服务，重新赋能各类社区警务场景，帮助基层民警建立感知态势、主动防控、精细管控、多元服务的新型警务
-          工作模式。有效解决新时期下治安形势复杂和治理不够精细等问题，提升基层派出所的综合治理能力。
+          “智慧戒毒”是以教育戒治科学化、专业化为中心任务，以统一的戒毒基本模式和戒毒业务技术规范标准体系为支撑基础，综合运用大数据、物联网、人工智能等科学技术手段，优化戒毒资源配置，收集、分析、整合戒毒工作关键信息，总结、把握、归纳戒毒工作规律，建立健全符合戒毒工作实际的科学警务模式和管理制度，科学预知、预判、预警，并做出决策，实现安全、智能、统一、共享、规范的戒毒工作智慧运行工作措施体系。“智慧戒毒所”就是能够有效贯彻落实上述工作措施体系的司法行政戒毒场所。
+          “智慧戒毒”的目标是提高司法行政戒毒工作的科学化、规范化、专业化、智能化水平，更好地教育矫治、服务、救治戒毒人员、惠及戒毒人员亲属、惩戒和预防违法行为，从而实现维护人民利益和社会安全稳定。
         </div>
         <a href="/project/Detoxification">
           <span class="button">查看更多</span>
         </a>
         <a href="/project/Detoxification" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
+          <img src="../assets/project/智慧戒毒.png" alt="安防" class="item" />
         </a>
       </div>
       <div class="prisonProgram">
         <div class="title1">智慧监管解决方案</div>
         <div class="subtitle1">
-          依据公安部智慧监所建设指导方案及监管实际业务需求，以监管信息业务平台为基础，整合大数据分析、生物识别、物联网、AI等先进技术，打造现代化智慧监所整体解决方案。
+          智慧监管建设要以防控监所安全风险、规范执法执勤行为、服务公安中心工作、科学有效业务指导为核心目标，坚持职能引领，紧紧围绕公安监管场所基本职能，优先满足保证安全的首要需求；坚持问题导向，针对公安监管工作中的“常见病”、“多发病”，应用科技信息化手段，务求予以根治；坚持深度融合，将科技信息技术与传统有效方式有机结合，按照执法规范和标准，健全升级人机结合的勤务模式，服务实战需求，持续推进完善；坚持统筹协调，自上而下进行规划，省级和地市级公安监管业务指导部门要在本意见指导下，遵循智慧监管建设技术要求，制定实施方案，明确目标任务和方法路径，有计划、分步骤推进建设应用。
         </div>
         <a href="/project/Supervision">
           <span class="button">查看更多</span>
         </a>
         <a href="/project/Supervision" class="item">
-          <img src="../assets/project/物联感知平台.jpg" alt="安防" class="item" />
+          <img
+            src="../assets/project/智慧监狱.jpg"
+            alt="安防"
+            class="item"
+          />
         </a>
       </div>
       <div class="prisonProgram">
         <div class="title1">智慧监狱解决方案</div>
         <div class="subtitle1">
-          通过广泛地运用信息智能化技术，提高监狱物防、技防能力，
-          建立监管安全防范的长效管理机制，树立先进的管理意识，掌握先进的管理方法和管理手段，提升安全防范和应急处置指挥能力。
+          监狱是关押、管理犯罪人员的场所，在押人员多为刑事犯罪分子，安全和管理成为首要问题。既要保障社会的安全，也要保障狱警的安全，犯罪分子的安全。因此，安全防范是监狱管理的重要组成部分。鼎华结合生物识别技术、物联网技术、视频智能分析等技术手段，着重"管、防"两个方面，充分考虑到在押人员、狱警、监狱场所管理人员的实际管理需求，将监舍、监区、指挥中心各级设备智能联网管理，集成指挥调度、可视对讲。视频联动、视频会议、呼叫报警、公共广播、信感交互巡更，智能点名、设备控制、高精度定位、移动执法等功能，有效的提高工作管理水平及效率，积极推动监狱安防信息化水平，打造新时代背景下“智慧监狱，实现"向科技要警力，向科技要效率，向科技要安全”整体建设目标。
         </div>
         <a href="/project/Smartprison">
           <span class="button">查看更多</span>
         </a>
         <a href="/project/Smartprison" class="item">
-          <img src="../assets/project/物联感知平台.jpg" alt="安防" class="item" />
+          <img
+            src="../assets/project/智慧监管.jpg"
+            alt="安防"
+            class="item"
+          />
         </a>
       </div>
       <div class="prisonProgram">
@@ -58,7 +63,7 @@
           <span class="button">查看更多</span>
         </a>
         <a href="/project/Park" class="item">
-          <img src="../assets/project/安防.png" alt="安防" class="item" />
+          <img src="../assets/project/智慧园区.jpg" alt="安防" class="item" />
         </a>
       </div>
     </div>
@@ -82,10 +87,12 @@ export default {
     text-align: center;
     .title {
       font-size: 30px;
+      line-height:1.75;
       color: #333;
     }
     .subtitle {
       font-size: 15px;
+      line-height:1.75;
       color: #888;
       margin: 20px auto 40px auto;
       width: 900px;
@@ -100,12 +107,14 @@ export default {
       .title1 {
         padding-top: 10px;
         font-size: 25px;
+        line-height:1.75;
         color: #333;
         text-align: left;
       }
       .subtitle1 {
         font-size: 15px;
         margin-top: 20px;
+        line-height:1.75;
         color: #333;
         text-indent: 2em;
         text-align: left;
