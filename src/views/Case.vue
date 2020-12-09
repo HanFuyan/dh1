@@ -1,7 +1,7 @@
 <template>
   <div class="project">
     <div class="banner">
-      <img src="../assets/banner_1.jpg" alt="" />
+      <img src="../assets/banner_4.jpg" alt="" />
     </div>
     <div class="Program">
       <div class="title">智慧戒毒</div>
@@ -39,7 +39,7 @@
           <img src="../assets/case/Supervision/图2.jpg" alt="安防" class="item" />
         </a>
         <div>
-          <a href="/case/Perceive">
+          <a href="/case/Supervision">
             <span class="button">智慧监所实战平台</span>
           </a>
         </div>
@@ -125,7 +125,7 @@ export default {
       .item {
         position: relative;
         height: 175px;
-        padding: 5px;
+        padding-left: 18px;
         margin: 0 auto;
         transition: 0.5s;
         &:hover {

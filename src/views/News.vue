@@ -8,25 +8,16 @@
       <div class="item">
         <div class="img img_1"></div>
         <div class="info">
-          <div class="tt"><a href="/news/news1">鼎华网络与海康威视签署战略合作协议</a></div>
-          <div class="date">2020-12-03</div>
-          <div class="desc">日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨...</div>
+          <div class="tt"><a href="/news/news1">公司正式搬迁至合肥中安创谷科技园</a></div>
+          <div class="date">2020-5-23</div>
+          <div class="desc">公司于2020年5月21日起正式搬迁至广东省合肥市蜀山区望江西路和方兴大道交叉口西北角中安创谷科技园A4栋633室...</div>
         </div>
       </div>
       <div class="item">
         <div class="img img_2"></div>
         <div class="info">
-          <div class="tt"><a href="/news/news1">鼎华网络与海康威视签署战略合作协议</a></div>
-          <div class="date">2020-12-03</div>
-          <div class="desc">日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨...</div>
-        </div>
-      </div>
-      <div class="item">
-        <div class="img img_3"></div>
-        <div class="info">
-          <div class="tt"><a href="/news/news1">鼎华网络与海康威视签署战略合作协议</a></div>
-          <div class="date">2020-12-03</div>
-          <div class="desc">日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨日前安徽鼎华网络科技有限公司与杭州海康威视集团签署战略合作协议, 就视频监控方面合作进行深入探讨...</div>
+          <div class="tt"><a href="/news/news2">根植公安监管行业的“智慧点”</a></div>
+          <div class="date">2020-7-8</div>
         </div>
       </div>
     </div>

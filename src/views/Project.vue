@@ -1,7 +1,7 @@
 <template>
   <div class="project">
     <div class="banner">
-      <img src="../assets/banner_1.jpg" alt="" />
+      <img src="../assets/banner_4.jpg" alt="" />
     </div>
     <div class="Program">
       <div class="title">解决方案</div>

@@ -11,7 +11,7 @@
       <div class="subtitle">
         智慧监所实战指挥平台是用于看守所安防管理和警务实战应用及大数据分析的综合性管理软件平台，以安防实战业务应用为导向，以视频巡查应用为手段，以智能人员定位系统为依托，以被监管人员为管控对象，集电子地图、视频巡查、被监管人员定位管控、设备运维、数据统计等多业务的全方位综合性应用管理平台。
       </div>
-      <div class="title">产品概述</div>
+      <div class="title1">产品概述</div>
       <div class="subtitle1">
         一、整合监所技防系统<br />
         接入监控视频、被监管人员呼叫对讲、门禁考勤、民警巡视、报警接入及预案处置、智能行为分析、人脸及位置轨迹等信息。建立智能运维系统，对监所各技防系统运行状态进行实施监控。
@@ -25,7 +25,7 @@
         四、执法监督<br />
         加强民警绩效管理，量化岗位工作，自动抽取管理台账，民警工作轨迹自动登记、发布。
       </div>
-      <div class="title">平台展示</div>
+      <div class="title1">平台展示</div>
       <div class="box">
         <img src="../../assets/case/Supervision/图片3.jpg" alt="安防" class="item" />
         <img src="../../assets/case/Supervision/图片4.jpg" alt="安防" class="item" />
@@ -53,8 +53,15 @@ export default {
     margin: 0 auto;
     max-width: 1200px;
     .title {
+      text-align: center;
+      font-size: 35px;
+      font-weight: bold;
+      color: rgb(8, 8, 8);
+      margin-bottom: 30px;
+    }
+    .title1 {
       text-align: left;
-      font-size: 25px;
+      font-size: 20px;
       font-weight: bold;
       color: rgb(8, 8, 8);
       margin-bottom: 15px;
