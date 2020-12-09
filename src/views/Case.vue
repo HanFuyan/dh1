@@ -34,25 +34,13 @@
     </div>
     <div class="Program">
       <div class="title">智慧防控</div>
-      <div class="prisonProgram">
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <a href="/case/Emergency" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
+      <div class="prisonProgram1">
+        <a href="/case/Supervision" class="item">
+          <img src="../assets/case/Supervision/图2.jpg" alt="安防" class="item" />
         </a>
         <div>
           <a href="/case/Perceive">
-            <span class="button">安防综合管理平台</span>
-          </a>
-          <a href="/case/Emergency">
-            <span class="button">应急指挥平台</span>
-          </a>
-          <a href="/case/Perceive">
-            <span class="button">智慧物联感知平台</span>
+            <span class="button">智慧监所实战平台</span>
           </a>
         </div>
       </div>
@@ -96,20 +84,44 @@ export default {
       padding: 20px 30px;
       text-align: center;
       background-color: rgba(97, 175, 253, 0.7);
-      .title1 {
-        padding-top: 10px;
-        font-size: 25px;
-        color: #333;
-        text-align: left;
+      .item {
+        position: relative;
+        height: 175px;
+        padding: 5px;
+        margin: 0 auto;
+        transition: 0.5s;
+        &:hover {
+          transform: scale(1.02);
+        }
       }
-      .subtitle1 {
-        font-size: 15px;
-        margin-top: 20px;
-        color: #333;
-        text-indent: 2em;
-        text-align: left;
-        margin-bottom: 15px;
+      .button {
+        margin: 10px 122px;
+        width: 133px;
+        height: 36px;
+        line-height: 36px;
+        color: rgb(0, 0, 0);
+        font-size: 14px;
+        display: inline-block;
+        font-family: "Microsoft YaHei";
+        border: 1px solid #666666;
+        text-align: center;
+        border-radius: 20px;
+        &:hover {
+          border-top-color: #3099dd;
+          border-right-color: #3099dd;
+          border-bottom-color: #3099dd;
+          border-left-color: #3099dd;
+          background: #3099dd;
+        }
       }
+    }
+    .prisonProgram1 {
+      position: relative;
+      max-width: 1200px;
+      margin: 20px auto;
+      padding: 20px 30px;
+      text-align: left;
+      background-color: rgba(97, 175, 253, 0.7);
       .item {
         position: relative;
         height: 175px;
