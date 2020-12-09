@@ -23,22 +23,22 @@ const routes = [
   {
     path: '/case/Security',
     name: 'Security',
-    component: () => import('../views/Case/Security.vue')
+    component: () => import('../views/case/Security.vue')
   },
   {
     path: '/case/Emergency',
     name: 'Emergency',
-    component: () => import('../views/Case/Emergency.vue')
+    component: () => import('../views/case/Emergency.vue')
   },
   {
     path: '/case/Perceive',
     name: 'Perceive',
-    component: () => import('../views/Case/Perceive.vue')
+    component: () => import('../views/case/Perceive.vue')
   },
   {
     path: '/case/Supervision',
     name: 'Supervision',
-    component: () => import('../views/Case/Supervision.vue')
+    component: () => import('../views/case/Supervision.vue')
   },
   {
     path: '/project',

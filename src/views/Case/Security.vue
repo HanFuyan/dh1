@@ -8,19 +8,43 @@
       <div style="width:1200px; text-align: center">
         <img src="../../assets/project/安防.png" alt="安防" class="item1" />
       </div>
+      <div class="title1">系统背景</div>
       <div class="subtitle">
-        近年来，各级公安监管部门针对监管场所押量大警力少、被监管人员成份复杂管理难度大的现状，积极顺应信息化发展大势，持续推进信息化建设和应用，有力提升了监管场所保证安全、服务刑事诉讼和行政执法活动、保障被监管人员合法权益的能力和水平。但依然存在一些亟需解决的问题：
-        被监管人员信息资源整合共享不足，缺少岗位联动，有限警力没有形成有效合力，放大了押量大警力少的矛盾；
-        监管工作从被动应对处置向主动预测预防转变的理念没有牢固树立，运用监管大数据对被监管人员进行安全风险评估、实施有效管控、防患未然的能力不强；
-        监管业务指导脱离监管场所实时信息资源，动态精准指导水平不高；
-        信息技术应用着眼于具体问题，前瞻性统筹规划不够
+        安防综合管理平台：统一集成强制隔离戒毒所视频、门禁、巡更、报警、访客等安防子系统，提供日常巡查、智能轮巡、报警管理等功能，实现戒毒所安防资源的统一监管，有效提升戒毒所安全防范水平。
       </div>
-      <div class="title">平台展示</div>
+      <div class="title1">系统概述</div>
+      <div class="subtitle">
+        司法部《”数字法治 智慧司法”
+        信息化体系建设指导意见》中明确要求:“技术融合，业务融合，数据融合，打通信息壁垒，建设全系统统筹利用，统一接入的数据资源平台与共享服务平台”法部《“智慧戒毒”建设实施意见》中提出“智慧戒毒管理平台”作全流程数据化的统一平台。
+      </div>
+      <div class="title1">系统功能</div>
+      <div class="subtitle">
+        视频监控:实时查看学员动态; 门禁控制:门禁开关控制/门禁实时状态;
+        统一身份认证:统一用户权限管理; 巡更:巡更打卡签到;
+        报警管理:统一处理报警数据; 安防指标评估:统一评估监所安防等级。
+      </div>
+      <div class="title1">平台展示</div>
       <div class="box">
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
+        <img
+          src="../../assets/case/Security/图片2.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Security/图片3.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Security/图片4.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Security/图片5.jpg"
+          alt="安防"
+          class="item"
+        />
       </div>
     </div>
   </div>
@@ -43,14 +67,21 @@ export default {
     margin: 0 auto;
     max-width: 1200px;
     .title {
+      text-align: center;
+      font-size: 35px;
+      font-weight: bold;
+      color: rgb(8, 8, 8);
+      margin-bottom: 30px;
+    }
+    .title1 {
       text-align: left;
-      font-size: 25px;
+      font-size: 20px;
       font-weight: bold;
       color: rgb(8, 8, 8);
       margin-bottom: 15px;
     }
     .subtitle {
-      font-size: 15px;
+      font-size: 20px;
       margin-top: 20px;
       line-height: 30px;
       color: rgb(8, 8, 8);

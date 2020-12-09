@@ -4,23 +4,52 @@
       <img src="../../assets/banner_1.jpg" alt="" />
     </div>
     <div class="Program">
-      <div class="title">安防综合管理平台</div>
+      <div class="title">智慧物联感知平台</div>
       <div style="width:1200px; text-align: center">
-        <img src="../../assets/project/安防.png" alt="安防" class="item1" />
+        <img
+          src="../../assets/case/Perceive/物联.jpg"
+          alt="安防"
+          class="item1"
+        />
       </div>
+      <div class="title1">系统概述</div>
       <div class="subtitle">
-        近年来，各级公安监管部门针对监管场所押量大警力少、被监管人员成份复杂管理难度大的现状，积极顺应信息化发展大势，持续推进信息化建设和应用，有力提升了监管场所保证安全、服务刑事诉讼和行政执法活动、保障被监管人员合法权益的能力和水平。但依然存在一些亟需解决的问题：
-        被监管人员信息资源整合共享不足，缺少岗位联动，有限警力没有形成有效合力，放大了押量大警力少的矛盾；
-        监管工作从被动应对处置向主动预测预防转变的理念没有牢固树立，运用监管大数据对被监管人员进行安全风险评估、实施有效管控、防患未然的能力不强；
-        监管业务指导脱离监管场所实时信息资源，动态精准指导水平不高；
-        信息技术应用着眼于具体问题，前瞻性统筹规划不够
+        通过集成平台进行数据交换,信息共享,使各系统既相互独立,有相互依存,从而解决系统交互能力差,数据标准不一致,图数不能互访等问题,充分发挥网络功能.
       </div>
-      <div class="title">平台展示</div>
+      <div class="title1">系统功能</div>
+      <div class="subtitle">
+        1. 位置信息采集 2. 生命体征信息采集系统 3. 物品信息采集系统 4.
+        戒毒医疗信息采集系统 5. 运动康复信息采集系统 6. 场所环境信息采集系统 7.
+        设备状态传感采集系统 8. 能耗管理监测系统 9. 设备状态传感采集系统
+      </div>
+      <div class="title1">系统特色</div>
+      <div class="subtitle">
+        物联感知平台建设涉及到戒毒所的安全管理、监控管理、设备管理、绿色节能等多个方面,遵循”全面规划、分布实施、逐步完善”的总体原则.
+        戒毒所工具装备信息数据集成在平台管理、统一身份认证、设备业务数据整合、改造信息资源展示等融合方式,以标准、数据、应用、用户作为重点要素为主线进行规划和建设,以智慧交互终端为平台信息展示窗口,
+        以信息采集系统为数据采集交换感知捕捉,对全监区的物联设备进行统一的管理和维护.
+      </div>
+      <div class="title1">平台展示</div>
       <div class="box">
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
+        <img
+          src="../../assets/case/Perceive/图片1.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Perceive/图片2.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Perceive/图片3.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Perceive/图片4.jpg"
+          alt="安防"
+          class="item"
+        />
       </div>
     </div>
   </div>
@@ -43,14 +72,21 @@ export default {
     margin: 0 auto;
     max-width: 1200px;
     .title {
+      text-align: center;
+      font-size: 35px;
+      font-weight: bold;
+      color: rgb(8, 8, 8);
+      margin-bottom: 30px;
+    }
+    .title1 {
       text-align: left;
-      font-size: 25px;
+      font-size: 20px;
       font-weight: bold;
       color: rgb(8, 8, 8);
       margin-bottom: 15px;
     }
     .subtitle {
-      font-size: 15px;
+      font-size: 20px;
       margin-top: 20px;
       line-height: 30px;
       color: rgb(8, 8, 8);

@@ -10,70 +10,20 @@
         提供专业化解决方案, 为行业创造价值，让技术服务市场，打造精品案例。
       </div>
       <div class="prisonProgram">
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <div>
-          <a href="/case/Perceive">
-            <span class="button">安防综合管理平台</span>
-          </a>
-          <a href="/case/Perceive">
-            <span class="button">应急指挥平台</span>
-          </a>
-          <a href="/case/Perceive">
-            <span class="button">智慧物联感知平台</span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div class="Program">
-      <div class="title">智慧监管</div>
-      <div class="prisonProgram">
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <div>
-          <a href="/case/Perceive">
-            <span class="button">安防综合管理平台</span>
-          </a>
-          <a href="/case/Perceive">
-            <span class="button">应急指挥平台</span>
-          </a>
-          <a href="/case/Perceive">
-            <span class="button">智慧物联感知平台</span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div class="Program">
-      <div class="title">智慧监狱</div>
-      <div class="prisonProgram">
-        <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
-        </a>
-        <a href="/case/Perceive" class="item">
+        <a href="/case/Security" class="item">
           <img src="../assets/project/安防.png" alt="安防" class="item" />
         </a>
+        <a href="/case/Emergency" class="item">
+          <img src="../assets/project/应急指挥.png" alt="应急" class="item" />
+        </a>
         <a href="/case/Perceive" class="item">
-          <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
+          <img src="../assets/project/物联感知平台.jpg" alt="物联" class="item" />
         </a>
         <div>
-          <a href="/case/Perceive">
+          <a href="/case/Security">
             <span class="button">安防综合管理平台</span>
           </a>
-          <a href="/case/Perceive">
+          <a href="/case/Emergency">
             <span class="button">应急指挥平台</span>
           </a>
           <a href="/case/Perceive">
@@ -83,12 +33,12 @@
       </div>
     </div>
     <div class="Program">
-      <div class="title">智慧园区</div>
+      <div class="title">智慧防控</div>
       <div class="prisonProgram">
         <a href="/case/Perceive" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
-        <a href="/case/Perceive" class="item">
+        <a href="/case/Emergency" class="item">
           <img src="../assets/project/应急指挥.png" alt="安防" class="item" />
         </a>
         <a href="/case/Perceive" class="item">
@@ -98,7 +48,7 @@
           <a href="/case/Perceive">
             <span class="button">安防综合管理平台</span>
           </a>
-          <a href="/case/Perceive">
+          <a href="/case/Emergency">
             <span class="button">应急指挥平台</span>
           </a>
           <a href="/case/Perceive">
@@ -133,9 +83,11 @@ export default {
     }
     .subtitle {
       font-size: 15px;
-      color: #888;
-      margin: 20px auto 40px auto;
-      width: 900px;
+        margin-top: 20px;
+        color: #333;
+        text-indent: 2em;
+        text-align: left;
+        margin-bottom: 15px;
     }
     .prisonProgram {
       position: relative;

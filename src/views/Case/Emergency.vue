@@ -4,23 +4,52 @@
       <img src="../../assets/banner_1.jpg" alt="" />
     </div>
     <div class="Program">
-      <div class="title">安防综合管理平台</div>
+      <div class="title">应急指挥平台</div>
       <div style="width:1200px; text-align: center">
-        <img src="../../assets/project/安防.png" alt="安防" class="item1" />
+        <img
+          src="../../assets/case/Emergency/图片1.jpg"
+          alt="安防"
+          class="item1"
+        />
       </div>
+      <div class="title1">系统概述</div>
       <div class="subtitle">
-        近年来，各级公安监管部门针对监管场所押量大警力少、被监管人员成份复杂管理难度大的现状，积极顺应信息化发展大势，持续推进信息化建设和应用，有力提升了监管场所保证安全、服务刑事诉讼和行政执法活动、保障被监管人员合法权益的能力和水平。但依然存在一些亟需解决的问题：
-        被监管人员信息资源整合共享不足，缺少岗位联动，有限警力没有形成有效合力，放大了押量大警力少的矛盾；
-        监管工作从被动应对处置向主动预测预防转变的理念没有牢固树立，运用监管大数据对被监管人员进行安全风险评估、实施有效管控、防患未然的能力不强；
-        监管业务指导脱离监管场所实时信息资源，动态精准指导水平不高；
-        信息技术应用着眼于具体问题，前瞻性统筹规划不够
+        应急指挥调度平台：基于GIS一张图，实现跨系统信息数据交互、通信指挥调度、信息发布等，提供多级联动集成化指挥调度，实现事件处置,及时反映事件的状态。
+        强化应急指挥的快速调度、应急处置的快速反应，进一步提高监所应急指挥的规范化和科学化。
       </div>
-      <div class="title">平台展示</div>
+      <div class="title1">系统流程</div>
+      <div class="subtitle">
+        应急预防:快速全面掌握突发事件状况;
+        应急启动:针对突发事件采用提前准备的预案进行联动,解决突发事件;
+        应急处置:发展态势全面掌握,扁平化通信,指令一键直达,快速执行。
+      </div>
+      <div class="title1">系统特色</div>
+      <div class="subtitle">
+        1. 地图一站式管理,便于操作,加强戒毒人员日常管理 2.
+        提升戒毒安全防范及突发事件应急指挥能力 3. 提高戒毒行政办公水平
+      </div>
+      <div class="title1">平台展示</div>
       <div class="box">
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
-        <img src="../../assets/project/安防.png" alt="安防" class="item" />
+        <img
+          src="../../assets/case/Emergency/图片3.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Emergency/图片4.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Emergency/图片5.jpg"
+          alt="安防"
+          class="item"
+        />
+        <img
+          src="../../assets/case/Emergency/图片6.jpg"
+          alt="安防"
+          class="item"
+        />
       </div>
     </div>
   </div>
@@ -43,14 +72,21 @@ export default {
     margin: 0 auto;
     max-width: 1200px;
     .title {
+      text-align: center;
+      font-size: 35px;
+      font-weight: bold;
+      color: rgb(8, 8, 8);
+      margin-bottom: 30px;
+    }
+    .title1 {
       text-align: left;
-      font-size: 25px;
+      font-size: 20px;
       font-weight: bold;
       color: rgb(8, 8, 8);
       margin-bottom: 15px;
     }
     .subtitle {
-      font-size: 15px;
+      font-size: 20px;
       margin-top: 20px;
       line-height: 30px;
       color: rgb(8, 8, 8);
