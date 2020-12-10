@@ -3,10 +3,6 @@
     <Nav />
     <div class="body">
       <router-view/>
-      <!-- <keep-alive>
-        <transition name="fade">
-        </transition>
-      </keep-alive> -->
     </div>
     <Footer />
   </div>
