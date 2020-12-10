@@ -6,89 +6,89 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/dinghua/#/',
+    path: '/',
     name: 'Home',
     component: Home
   },
   {
-    path: '/dinghua/#/about',
+    path: '/about',
     name: 'About',
     component: () => import('../views/About.vue')
   },
   {
-    path: '/dinghua/#/case',
+    path: '/case',
     name: 'Case',
     component: () => import('../views/Case.vue')
   },
   {
-    path: '/dinghua/#/case/Security',
+    path: '/case/Security',
     name: 'Security',
     component: () => import('../views/case/Security.vue')
   },
   {
-    path: '/dinghua/#/case/Emergency',
+    path: '/case/Emergency',
     name: 'Emergency',
     component: () => import('../views/case/Emergency.vue')
   },
   {
-    path: '/dinghua/#/case/Perceive',
+    path: '/case/Perceive',
     name: 'Perceive',
     component: () => import('../views/case/Perceive.vue')
   },
   {
-    path: '/dinghua/#/case/Supervision',
+    path: '/case/Supervision',
     name: 'Supervision',
     component: () => import('../views/case/Supervision.vue')
   },
   {
-    path: '/dinghua/#/project',
+    path: '/project',
     name: 'Project',
     component: () => import('../views/Project.vue')
   },
   {
-    path: '/dinghua/#/project/Smartprison',
+    path: '/project/Smartprison',
     name: 'Smartprison',
     component: () => import('../views/project/Smartprison.vue')
   },
   {
-    path: '/dinghua/#/project/Supervision',
+    path: '/project/Supervision',
     name: 'Supervision',
     component: () => import('../views/project/Supervision.vue')
   },
   {
-    path: '/dinghua/#/project/Park',
+    path: '/project/Park',
     name: 'Park',
     component: () => import('../views/project/Park.vue')
   },
   {
-    path: '/dinghua/#/project/Detoxification',
+    path: '/project/Detoxification',
     name: 'Detoxification',
     component: () => import('../views/project/Detoxification.vue')
   },
   {
-    path: '/dinghua/#/news',
+    path: '/news',
     name: 'News',
     component: () => import('../views/News.vue')
   },
   {
-    path: '/dinghua/#/news/news1',
+    path: '/news/news1',
     name: 'news1',
     component: () => import('../views/news/news1.vue')
   },
   {
-    path: '/dinghua/#/news/news2',
+    path: '/news/news2',
     name: 'news2',
     component: () => import('../views/news/news2.vue')
   },
   {
-    path: '/dinghua/#/news/news3',
+    path: '/news/news3',
     name: 'news3',
     component: () => import('../views/news/news3.vue')
   }
 ]
 
 const router = new VueRouter({
-  // mode: 'history',
+  mode: 'history',
   base: process.env.BASE_URL,
   routes
 })
