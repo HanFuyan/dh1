@@ -3,7 +3,7 @@
     <div class="nav"></div>
     <div class="content">
       <div class="title">根植公安监管行业的“智慧点”</div>
-      <div class="date">2020-05-23</div>
+      <div class="date">2020-7-8</div>
       <div class="desc">
         <img class="img" src="../../assets/news/news2.jpg" alt="" />
         <p>

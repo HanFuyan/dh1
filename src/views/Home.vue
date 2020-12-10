@@ -26,20 +26,20 @@
       <div class="box">
         <a href="/news/news1" class="item item_1">
           <div class="info">
-            <span class="desc">鼎华网络与海康威视签署战略合作协议</span>
-            <span class="date">12-03</span>
+            <span class="desc">公司正式搬迁至合肥中安创谷科技园</span>
+            <span class="date">5-23</span>
           </div>
         </a>
-        <a href="/news/news1" class="item item_2">
+        <a href="/news/news2" class="item item_2">
           <div class="info">
-            <span class="desc">鼎华网络与海康威视签署战略合作协议</span>
-            <span class="date">12-03</span>
+            <span class="desc">根植公安监管行业的“智慧点”</span>
+            <span class="date">7-8</span>
           </div>
         </a>
-        <a href="/news/news1" class="item item_3">
+        <a href="/news/news3" class="item item_3">
           <div class="info">
-            <span class="desc">鼎华网络落户合肥中安创谷科技园</span>
-            <span class="date">12-03</span>
+            <span class="desc">智慧监狱建设现状及发展前景介绍</span>
+            <span class="date">11-8</span>
           </div>
         </a>
       </div>
@@ -212,7 +212,7 @@ export default {
         background-image: url(../assets/news/news_2.png);
       }
       .item_3{
-        background-image: url(../assets/news/news_3.png);
+        background-image: url(../assets/news/图片4.png);
       }
     }
   }

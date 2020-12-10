@@ -20,6 +20,13 @@
           <div class="date">2020-7-8</div>
         </div>
       </div>
+      <div class="item">
+        <div class="img img_3"></div>
+        <div class="info">
+          <div class="tt"><a href="/news/news3">智慧监狱建设现状及发展前景介绍”</a></div>
+          <div class="date">2020-11-8</div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -71,7 +78,7 @@ export default {
         background-image: url(../assets/news/news_2.png);
       }
       .img_3{
-        background-image: url(../assets/news/news_3.png);
+        background-image: url(../assets/news/图片4.png);
       }
       .info{
         margin-left: 10px;
