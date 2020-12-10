@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/'
+  publicPath: './dinghua/'
   // assetsDir: './',
   // outputDir: 'docs'
 }
